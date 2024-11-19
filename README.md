@@ -1,5 +1,6 @@
 ## Kiva Loans Analysis
-Este projeto tem como objetivo explorar o dataset de empréstimos da Kiva, uma organização de microcrédito global. Utilizando o Pandas, realizámos análises para entender padrões e tendências nos empréstimos.
+Este projeto tem como objetivo explorar o dataset de empréstimos da Kiva, uma organização de microcrédito global. 
+Utiliza o Pandas, realizando análises para entender padrões e tendências nos empréstimos.
 
 ## Dataset
 O dataset utilizado pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding).
